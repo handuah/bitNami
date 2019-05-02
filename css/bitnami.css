@@ -1,0 +1,51 @@
+nav{
+	background: linear-gradient(to right, #1488cc, #2b32b2); 
+}
+.navbar-brand{
+	color: white;
+	font-weight: 700;
+	font-size: 2rem;
+}
+#login{
+	margin-top: 6%;
+}
+#footer p{
+	font-size: 0.9rem;
+}
+.display-4{
+	font-size: 1.5rem;
+	font-weight: 400;
+}
+.display-3{
+	font-size: 2rem;
+}
+.input-group{
+	margin-left: 15% !important;
+}
+.text-blue{
+	color: lightblue;
+}
+.icon-background{
+	color: lightblue;
+}
+.btn-warning{
+	background: linear-gradient(to right, #fdc830, #f37335) !important; 
+	width: 200px;
+}
+.forgot-link{
+	margin-left: 120px;
+}
+.btn-success{
+	background: linear-gradient(to right, #11998e, #38ef7d);
+}
+.btn-secondary{
+	background-color: white;
+	border: 1px solid #1f8cc6;
+	color: #1f8cc6 !important;
+	width: 400px;
+}
+.btn-secondary:hover{
+	background-color: #1f8cc6;
+	color: white !important;
+	border: 1px solid white;
+}
